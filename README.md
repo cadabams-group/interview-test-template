@@ -21,6 +21,6 @@ You may also see any lint errors in the console.
 color codes \
 Green -> psychiatrist \
 blue -> clinical Psychologist \
-yellow -> family therapist \
+yellow -> family therapist
 
 ![project preview](/src/assets/design/desktop-ui.png)
