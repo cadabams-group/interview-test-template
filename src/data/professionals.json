@@ -1,0 +1,52 @@
+{
+    "professionals": [
+        {
+            "id": 1,
+            "name": "Dr Priya Raghavan",
+            "qualification": "MBBS, MRCP (UK), CCT",
+            "session_price": "1000.00",
+            "category": "Clinical Psychologist",
+            "img_url": "../assests/images/clinical-psychologist-female.png"
+        },
+        {
+            "id": 2,
+            "name": "Dr Vishal Kasal",
+            "qualification": "MBBS, M.D. (Psychiatry)",
+            "session_price": "1000.00",
+            "category": "Family Therapist",
+            "img_url": "../assests/images/family-therapist-male.png"
+        },
+        {
+            "id": 3,
+            "name": "Dr Arun Kumar",
+            "qualification": "MBBS, M.D. (Psychiatry)",
+            "session_price": "1000.00",
+            "category": "Clinical Psychologist",
+            "img_url": "../assests/images/clinical-psychologist-male.png"
+        },
+        {
+            "id": 4,
+            "name": "Renuka B H",
+            "qualification": "M.Phil (RCI) in Clinical Psychology",
+            "session_price": "1000.00",
+            "category": "Clinical Psychologist",
+            "img_url": "../assests/images/clinical-psychologist-female.png"
+        },
+        {
+            "id": 5,
+            "name": "Dr Anitha Bharathan",
+            "qualification": "M.Sc (Psychology), M.Phil (RCI) Psychology, Ph.D in Psycho-oncology",
+            "session_price": "1000.00",
+            "category": "Family Therapist",
+            "img_url": "../assests/images/family-therapist-female.png"
+        },
+        {
+            "id": 6,
+            "name": "Dr B R Madhukar",
+            "qualification": "MBBS, DPM",
+            "session_price": "1000.00",
+            "category": "Psychiatrist",
+            "img_url": "../assests/images/psychiatrist-male.png"
+        }
+    ]
+}
