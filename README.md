@@ -18,4 +18,9 @@ You may also see any lint errors in the console.
 
 ### Project Preview
 
+color codes
+Green -> psychiatrist
+blue -> clinical Psychologist
+yellow -> family therapist
+
 ![project preview](/src/assets/design/desktop-ui.png)
