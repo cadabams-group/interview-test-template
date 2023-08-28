@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
+// import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 import jsonData from "./data/professionals.json";
 import logo from "./logo.svg"
 import "./App.css";
