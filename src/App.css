@@ -28,3 +28,7 @@
 .App-link {
   color: #61dafb;
 }
+
+.card{
+  border: 1px solid #fff !important;
+}
